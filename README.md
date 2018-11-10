@@ -9,9 +9,9 @@ Eseguite le seguenti operazioni, dopo aver completato ognuna di esse mettete una
 
 - [x] accedete con il vostro account personale (**non sbagliate password!**)
 - [x] fate il fork di questo progetto
-- [ ] copiate l'URL relativo al **vostro** progetto
-- [ ] aprite git-bash su Windows
-- [ ] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory), creando la cartella se necessario
+- [x] copiate l'URL relativo al **vostro** progetto
+- [x] aprite git-bash su Windows
+- [x] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory), creando la cartella se necessario
 - [ ] scaricate il progetto con `git clone <URL-vostro-repo>`
 - [ ] navigate nella cartella appena creata
 - [ ] aprite Esplora Risorse
